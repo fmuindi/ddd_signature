@@ -1,0 +1,20 @@
+<table style="font-family: Arial, sans-serif; font-size: 14px; color: #000;">
+  <tr>
+    <td style="padding-right: 15px; vertical-align: top;">
+      <img src="https://images.squarespace-cdn.com/content/v1/6320a2f4b74abf777594e293/04bc35f6-8455-42fd-a72b-97b248dd553d/DDD_Logo_Name-GrayBlue+72.png" alt="DDD Logo" width="120" style="display: block;">
+    </td>
+    <td style="border-left: 1px solid #ccc; padding-left: 15px;">
+      <p style="margin: 0; font-weight: bold; font-size: 15px;">Felix Muindi</p>
+      <p style="margin: 0;">IT Associate</p>
+      <p style="margin: 0;">Nairobi, Kenya</p>
+      <p style="margin: 8px 0 0;">
+        <a href="mailto:felix.muindi@digitaldividedata.com" style="color: #0066cc; text-decoration: none;">felix.muindi@digitaldividedata.com</a>
+      </p>
+      <p style="margin: 0;">
+        <a href="https://www.digitaldividedata.com" style="color: #0066cc; text-decoration: none;">www.digitaldividedata.com</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p style="margin-top: 10px;">Regards,</p>
